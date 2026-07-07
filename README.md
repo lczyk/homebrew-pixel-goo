@@ -7,6 +7,7 @@ simulation where particles follow each other's trails.
 
 ```sh
 brew tap lczyk/pixel-goo
+brew trust lczyk/pixel-goo
 brew install goo
 ```
 
