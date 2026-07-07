@@ -1,8 +1,8 @@
 class Goo < Formula
   desc "GPU particle simulation where particles follow each other's trails"
   homepage "https://github.com/lczyk/pixel-goo"
-  url "https://github.com/lczyk/pixel-goo/archive/refs/tags/v1.1.2.tar.gz"
-  sha256 "24ed173cac85f11736de7f28e767a7edc53cd9a0d71c2a3839b88d4976ac3a58"
+  url "https://github.com/lczyk/pixel-goo/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "2375bf79e90bd3022a65c66a2b85dbbf50f55b300a66e223299231d9d8e3c0b9"
 
   # linux (linuxbrew): the windowed binary links X11/Xrandr/GL and dlopens Xcursor/Xi.
   # macos needs nothing extra -- Cocoa/OpenGL are system frameworks.
